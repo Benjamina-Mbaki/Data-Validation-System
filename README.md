@@ -80,3 +80,4 @@ IT Systems Development Student
 
 "GitHub Profile" (https://github.com/Benjamina-Mbaki)
 
+🔄 Open to collaboration and improvements — feel free to submit a pull request!
