@@ -1,18 +1,16 @@
-🔐 Data Validation System
-
----
+# 🔐 Data Validation System
 
 A Java desktop application developed to validate user input and provide clear feedback when entered data does not meet the required validation rules.
 
 ---
 
-📌 Project Overview
+## 📌 Project Overview
 
 The Data Validation System is a Java Swing application created as part of my IT Systems Development coursework. The application demonstrates GUI development, input validation, error handling, and basic software development practices.
 
 ---
 
-✨ Features
+## ✨ Features
 
 - User-friendly graphical interface
 - Input validation
@@ -22,7 +20,8 @@ The Data Validation System is a Java Swing application created as part of my IT 
 - Java Swing interface
 
 ---
-🛠️ Technologies Used
+
+## 🛠️ Technologies Used
 
 - Java
 - Java Swing
@@ -31,32 +30,37 @@ The Data Validation System is a Java Swing application created as part of my IT 
 
 ---
 
-✅ Validation
+## ✅ Validation
 
 The system checks user input against predefined validation rules and provides feedback when information is invalid or incomplete.
 
 ---
 
-🚀 How to Run
+## 🚀 How to Run
 
 1. Clone or download this repository.
-2. Open the project in VS Code.
+2. Open the project folder in VS Code.
 3. Make sure the Java JDK is installed.
-4. Open the project folder.
-5. Compile the Java files.
-6. Run the main application class.
+4. Compile the Java files.
+5. Run the main application class.
 
-📂 Project Structure
+---
 
-DataValidationSystem/
+## 📂 Project Structure
+
+```
+Data-Validation-System/
 ├── src/
 │   └── datavalidation/
 │       ├── ValidationFrame.java
 │       └── ...
 ├── README.md
 └── ...
+```
 
-🎓 Learning Outcomes
+---
+
+## 🎓 Learning Outcomes
 
 Through this project, I gained experience with:
 
@@ -68,16 +72,22 @@ Through this project, I gained experience with:
 - Using Git and GitHub
 - Working with VS Code
 
-🤖 AI Assistance
+---
+
+## 🤖 AI Assistance
 
 I used ChatGPT and Claude as AI-assisted learning and development tools during this project. They helped me understand programming concepts, troubleshoot errors, debug code, and improve the project.
 
-👩🏽‍💻 Author
+---
 
-Benjamina Mbaki
+## 👩🏽‍💻 Author
+
+**Benjamina Mbaki**
 
 IT Systems Development Student
 
-"GitHub Profile" (https://github.com/Benjamina-Mbaki)
+GitHub: [github.com/Benjamina-Mbaki](https://github.com/Benjamina-Mbaki)
 
-🔄 Open to collaboration and improvements — feel free to submit a pull request!
+---
+
+🔄 Open to collaboration and improvements. Feel free to submit a pull request!
